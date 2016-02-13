@@ -12,7 +12,22 @@ namespace Pattern;
  */
 abstract class AbstractFactory
 {
+    /**
+     * Создает воду
+     *
+     * @param int|float $value - объем
+     *
+     * @return CocaColaWater
+     */
     public abstract function createWater($volume);
+    
+    /**
+     * Создает бутылку
+     *
+     * @param int|float $value - объем
+     *
+     * @return CocaColaBottle
+     */
     public abstract function createBottle($volume);
 }
 
