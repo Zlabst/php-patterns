@@ -25,7 +25,7 @@
 * [Приспособленец (Flyweight)](Structural/Flyweight)
 * [Заместитель (Proxy)](Structural/Proxy)
 
-### [Поведеньческие (Behavioral)](Behavioral)
+### [Поведенческие (Behavioral)](Behavioral)
 
 * [Цепочка ответственности (Chain Of Responsibility)](Behavioral/ChainOfResponsibility)
 * [Команда (Command)](Behavioral/Command)

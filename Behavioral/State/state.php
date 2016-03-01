@@ -11,7 +11,7 @@
 namespace Pattern;
 
 /**
- * Тип ModileAlertStater, описывает общий интерфейс для различных состояний
+ * ModileAlertStater, описывает общий интерфейс для различных состояний
  */
 abstract class ModileAlertStater
 {
